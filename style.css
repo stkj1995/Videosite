@@ -8,6 +8,10 @@
   src: url(../video/fonts/SourceSerif4-VariableFont_opsz\wght.woff2) format(woff2);
 }
 
+body {
+  background-color: antiquewhite;
+}
+
 h1 {
   padding: 2%;
   font-family: minskrifttype;
