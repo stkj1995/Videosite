@@ -1,0 +1,4 @@
+*.mp4
+*.psd
+/video
+.DS_store
