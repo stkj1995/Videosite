@@ -73,15 +73,14 @@ video {
   width: 100%;
   height: auto;
   display: block;
+  margin-bottom: 3%;
 }
 
 img,
 p {
   display: grid;
   place-items: center;
-  width: 80%;
   grid-area: 1 / 1;
-  margin-bottom: 3%;
   display: block;
 }
 
@@ -98,27 +97,27 @@ p {
 #portraet {
   display: grid;
   place-items: center;
-  padding: 0%;
+  padding: 2%;
   margin: 0%;
 }
 
 #hoejformat {
   display: grid;
   place-items: center;
-  padding: 0%;
+  padding: 2%;
   margin: 0%;
 }
 
 #bredformat {
   display: grid;
   place-items: center;
-  padding: 0%;
+  padding: 2%;
   margin: 0%;
 }
 
 #layoutdiagram {
   display: grid;
   place-items: center;
-  padding: 0%;
+  padding: 2%;
   margin: 0%;
 }
