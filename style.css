@@ -31,7 +31,7 @@ h3 {
   padding: 2%;
   font-family: minskrifttype;
   color: lightslategray;
-  font-size: 25px;
+  font-size: 30px;
   margin-top: 2%;
 }
 
@@ -45,6 +45,7 @@ p {
   padding: 0%;
   margin-left: 10%;
   margin-right: 10%;
+  background-color: antiquewhite;
 }
 
 footer {
