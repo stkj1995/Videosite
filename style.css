@@ -16,8 +16,8 @@ h1 {
   padding: 2%;
   font-family: minskrifttype;
   font-weight: bold;
-  font-size: 35x;
-  color: dimgray;
+  font-size: 20px;
+  color: grey;
   text-align: center;
   margin-bottom: 2%;
 }
@@ -25,7 +25,7 @@ h1 {
 h2 {
   padding: 2%;
   font-family: minskrifttype;
-  color: rgb(0, 74, 139);
+  color: darkkhaki;
   font-size: 28px;
   font-style: bold;
   text-align: center;
@@ -34,7 +34,7 @@ h2 {
 h3 {
   padding: 2%;
   font-family: minskrifttype;
-  color: lightslategray;
+  color: grey;
   font-size: 30px;
   margin-top: 2%;
 }
@@ -44,7 +44,7 @@ p {
   font-family: minskrifttype;
   font-size: 20px;
   font-style: oblique;
-  color: black;
+  color: darkolivegreen;
   text-align: center;
   padding: 0%;
   margin-left: 10%;
@@ -56,7 +56,7 @@ footer {
   padding: 2%;
   font-family: minskrifttype;
   font-size: 15px;
-  color: dimgray;
+  color: green;
 }
 
 iframe {
